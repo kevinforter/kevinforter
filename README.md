@@ -16,6 +16,7 @@ I'm Kevin aka Kev, a business information technology student, former first lieut
 ![csharp](https://img.shields.io/badge/CSharp-5B0888?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![mysql](https://img.shields.io/badge/MYSQL-1D5D9B?style=for-the-badge&logo=mysql&logoColor=white)
 ![gnubash](https://img.shields.io/badge/Shell-000000?style=for-the-badge&logo=gnubash&logoColor=white)
+![python](https://img.shields.io/badge/Python-5DADE2?style=for-the-badge&logo=python&logoColor=yellow)
 <br>
 
 ## 🖌️ Styles
