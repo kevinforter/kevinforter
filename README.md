@@ -1,3 +1,5 @@
+[![Kev's GitHub Banner](./assets/github_banner.png)](https://forter.eu)
+
 ### Hi there 👋
 
 <!--
