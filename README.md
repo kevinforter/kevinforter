@@ -1,7 +1,7 @@
 [![Kev's GitHub Banner](./assets/github_banner.png)](https://forter.eu)
 
 ### Hi there 👋
-I'm Kevin aka Kev, a business information technology student, former first lieutenant, and computer scientist.
+I'm Kevin aka Kev, a information technology student, former first lieutenant, and computer scientist.
 
 ## &#x1f4c8; GitHub Stats
 
